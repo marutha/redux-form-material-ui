@@ -86,6 +86,7 @@ class Form extends Component {
           >
             <MenuItem value="alice@redux-pizza.com" primaryText="Alice" />
             <MenuItem value="bob@redux-pizza.com" primaryText="Bob" />
+            <MenuItem value="maru@redux-pizza.com" primaryText="Maru" />
             <MenuItem value="carl@redux-pizza.com" primaryText="Carl" />
           </Field>
         </div>
